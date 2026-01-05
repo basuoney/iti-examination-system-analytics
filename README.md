@@ -88,8 +88,8 @@ iti-examination-system/
 │   ├── examination_system_erd.png    # ERD diagram image
 │   └── process_mapping.png           # Business process flow
 ├── fabric/
-│   ├── notebooks/
-│   │   └── etl_pipeline.ipynb       # PySpark data transformation
+│   ├── etl_pipeline.ipynb       # PySpark data transformation
+│   ├── fabric_screenshots.pdf   # screenshots from fabric workspace
 ├── ssrs_reports/
 │   ├── student_grades.rdl           # Student grade report
 │   ├── department_roster.rdl        # Department student list
