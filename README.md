@@ -276,24 +276,12 @@ This project showcases proficiency in:
 - [ ] Automated anomaly detection for cheating prevention
 - [ ] Integration with Learning Management Systems (LMS)
 
-## 👨‍💻 About
 
-**Author:** [Your Name]  
-**Program:** ITI - Data Analysis & Power BI Track  
-**Completion Date:** December 2024  
-**Project Duration:** 3 months
-
-## 📞 Contact
-
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-- **Portfolio:** [Link to other projects]
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **ITI Faculty** for guidance and support
 - **ChatGPT & Gemini** for AI-assisted data generation
 - **Microsoft Azure & Fabric** for cloud platform and tools
 
